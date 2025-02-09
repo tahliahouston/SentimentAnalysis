@@ -1,6 +1,6 @@
 ## A small practice project using AI to detect if a sentence is positive negative or neutral
 
-##To get Started!
+## To get Started!
 - clone the repository
 - run in your powershell terminal:
   ```sh
@@ -10,4 +10,4 @@
 - copy and paste the HTTP dev server in your browser
 - type a sentiment you'd like analyzed
 
-##Enjoy!
+## Enjoy!
